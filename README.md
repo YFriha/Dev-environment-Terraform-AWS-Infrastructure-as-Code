@@ -46,6 +46,8 @@ This project contains Terraform code to provision a simple development environme
 
 .
 ├── main.tf # Main Terraform configuration
+├── output.tf 
+├── datasource.tf 
 ├── userdata.tpl # EC2 user data script (shell script)
 ├── ssh-config.tpl # SSH config template (used by local-exec provisioner)
 └── README.md # Project documentation
