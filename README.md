@@ -49,11 +49,6 @@ This project contains Terraform code to provision a simple development environme
 ├── userdata.tpl # EC2 user data script (shell script)
 ├── ssh-config.tpl # SSH config template (used by local-exec provisioner)
 └── README.md # Project documentation
-
-yaml
-Copy
-Edit
-
 ---
 
 ✅ Prerequisites
